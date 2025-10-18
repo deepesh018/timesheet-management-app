@@ -29,15 +29,18 @@ It allows users to log work hours, manage weekly entries, and track their progre
 | **HTTP Client** | Axios |
 | **State Management** | React Hooks |
 | **Backend API** | Next.js API Routes |
-| **Deployment** | Vercel (Recommended) |
+
 
 ---
+
+**TIME SPENT:** 
+12 Hrs
 
 ## ⚙️ Installation & Setup
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/timesheet-app.git
+   git clone https://github.com/deepesh018/timesheet-management-app.git
 
 2. **Navigate into the project:** 
  cd timesheet-app 
@@ -50,3 +53,4 @@ It allows users to log work hours, manage weekly entries, and track their progre
 Demo Login Credentials Email: user@email.com | Password: 123456
  ■Author 
  Deepesh Dayanand Dhuri
+
