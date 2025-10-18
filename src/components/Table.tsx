@@ -69,7 +69,7 @@ export default function TimesheetTable() {
         </tbody>
       </table>
 
-      {/* Pagination */}
+     
       <div className="flex justify-between items-center mt-4">
         <select className="border rounded px-2 py-1 text-gray-600">
           <option>5 per page</option>
